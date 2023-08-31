@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Joris Bertier</h1>
 <h3 align="center">A passionate frontend | backend developer from France</h3>
+<img align="right" alt="Coding" width="400" src"https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478uwa5e3oh3fwfj0f9bcxzloy84deih66ahy4a0kk&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently studying on **Human Booster**
 
