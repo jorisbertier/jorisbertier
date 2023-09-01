@@ -9,6 +9,11 @@
 - 💬 Ask me about **symfony, scss**
 
 - 📫 How to reach me **joris.bertier@gmail.com**
+## Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorisbertier&count_private=true&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorisbertier&theme=radical&layout=compact&langs_count=6" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
