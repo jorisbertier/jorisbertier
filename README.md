@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joris Bertier</h1>
 <h3 align="center">A passionate frontend | backend developer from France</h3>
-<img align="right" alt="Coding" width="400" src"https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src"https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1711032248~exp=1711032848~hmac=0455db93389af4e295f8ee03fef3615a449d714659a410956cf19f7095d33526">
 
 - 🔭 I’m currently studying on **Human Booster**
 
