@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **joris.bertier@gmail.com**
 ## Stats
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorisbertier&count_private=true&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorisbertier&theme=radical&layout=compact&langs_count=6" />
 </div>
