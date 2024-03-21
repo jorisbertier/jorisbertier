@@ -8,7 +8,10 @@
 - 💬 Ask me about **Symfony, Angular**
 
 - 📫 How to reach me **joris.bertier@gmail.com**
-
+- <br/>
+```js
+Console.log("Hello there ;)");
+```
 
 
 
@@ -28,7 +31,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
