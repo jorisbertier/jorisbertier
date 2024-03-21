@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joris Bertier</h1>
 <h3 align="center">A passionate frontend | backend developer from France</h3>
-<img align="right" alt="Coding" width="400" src"https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1711032248~exp=1711032848~hmac=0455db93389af4e295f8ee03fef3615a449d714659a410956cf19f7095d33526">
-
+<img align="r
+ight" alt="Coding" width="400" src"https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1711032248~exp=1711032848~hmac=0455db93389af4e295f8ee03fef3615a449d714659a410956cf19f7095d33526" />
 - 🔭 I’m currently studying on **Human Booster**
 
 - 🌱 I’m currently learning **Angular**
