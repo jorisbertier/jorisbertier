@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Joris Bertier</h1><br/>
 <h3 align="center">A passionate frontend | backend developer from France</h3><br/>
-<img align="right" alt="Coding" width="400" height="200" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" ><br/>
+<!-- <img align="right" alt="Coding" width="400" height="200" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" ><br/> -->
+<div id="app"></div>
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script>
+  new Typed('#app', {
+    strings: ["Développeur Full Stack.", "Créatif.", "Passionné."],
+    typeSpeed: 50,
+    backSpeed: 30,
+    loop: true
+  });
+</script>
 - 🔭 I’m currently studying on my third year
 
 - 🌱 I’m currently learning **React**
