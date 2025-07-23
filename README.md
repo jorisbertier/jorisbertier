@@ -19,7 +19,7 @@
 - 📫 How to reach me **joris.bertier@gmail.com**
 - <br/>
 ```js
-Console.log("Hello there ;)");
+Console.log("Hello there");
 ```
 
 
