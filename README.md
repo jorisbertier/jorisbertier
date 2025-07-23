@@ -11,11 +11,10 @@
     loop: true
   });
 </script> -->
-- 🔭 I’m currently studying on my third year
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **Symfony, Angular**
+- 💬 Ask me about **Symfony, Angular, Nextjs, Nodejs**
 
 - 📫 How to reach me **joris.bertier@gmail.com**
 - <br/>
